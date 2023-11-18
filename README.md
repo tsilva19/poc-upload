@@ -6,7 +6,7 @@ Precisa ter NoDeJS
 Faça o git clone 
 Rode
 
-acesse via prompt cmd `cd upload-project`
+acesse via prompt cmd `cd poc-upload`
 instale `npm install`
 Rode `ng serve` for a dev server. digite no site `http://localhost:4200/`. 
 
